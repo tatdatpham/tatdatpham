@@ -21,6 +21,7 @@
 
 #### Certifications
 
+<a href="https://www.credly.com/badges/2aec7f8c-804c-4552-b18a-796b955067f0" target="_blank"><img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt='AWS Certified Solutions Architect – Professional' width="80px"></a>
 <a href="https://www.credly.com/badges/f0cbe3d8-5741-474e-aaa2-59bfacd9a1e6/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt='Azure Solution Architect ' width="80px"></a>
 <a href="https://www.credly.com/badges/774b9e3f-48a0-4fc5-8ec6-fa264ee91857/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png" class="cert" alt='Azure Cybersecurity Architect Expert' width="80px"></a>
 <a href="hhttps://www.credly.com/badges/4ef20bdb-c836-44ba-82df-373929c60249/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" class="cert" alt='Azure DevOps Engineer Expert' width="80px"></a>
